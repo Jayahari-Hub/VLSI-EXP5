@@ -55,17 +55,17 @@ The aim is to design and implement a 6T SRAM (Static Random-Access Memory) cell 
 
 #### 1. Schematic of 6T SRAM Cell:
 
- <img width="1251" height="702" alt="WhatsApp Image 2026-11-06 at 12 07 26 PM" src="https://github.com/user-attachments/assets/e9b28591-b5d3-4e4c-bfc6-249721c7d27d" />
+ <img width="1146" height="638" alt="EXP5 - Schematic Circuit" src="https://github.com/user-attachments/assets/81c00a92-3b91-4098-a626-3a81e7f0eed6" />
 
-<img width="1600" height="760" alt="WhatsApp Image 2026-11-06 at 12 08 12 PM" src="https://github.com/user-attachments/assets/1df2a17a-0e59-4181-b09e-9facc593dfb1" />
 
+#### 2. Transient Response Setup:
+
+<img width="1533" height="817" alt="EXP5 - Transient Response Setup" src="https://github.com/user-attachments/assets/73668aa3-0d2d-4e6c-9da7-1fc345ee08e5" />
 
 ## Output
 #### 1. Transient Analysis Output:
 
-  <img width="1600" height="738" alt="WhatsApp Image 2026-11-06 at 12 06 49 PM" src="https://github.com/user-attachments/assets/4473f801-3237-4984-8942-038a989b08a8" />
-
-
+  <img width="1534" height="650" alt="EXP5 -  Output Waveform" src="https://github.com/user-attachments/assets/5629e420-11c2-4019-a47e-bfed7cc9ebb6" />
 
 ## Results:
 1. Successfully designed the 6T SRAM cell schematic using Synopsys EDA tools.
